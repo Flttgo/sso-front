@@ -4,7 +4,6 @@
 
 ```bash
 # clone the project
-git clone http://devops.taifinance.cn/gitlab/www/sso-front.git
 
 # enter the project directory
 cd sso-front
