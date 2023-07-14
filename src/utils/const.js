@@ -1,0 +1,1 @@
+export const DMP_TOKEN = 'dmp-token'
